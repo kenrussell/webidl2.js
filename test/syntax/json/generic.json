@@ -177,7 +177,13 @@
                 "extAttrs": []
             }
         ],
-        "inheritance": "Event",
+        "inheritance": {
+            "trivia": {
+                "start": " ",
+                "name": " "
+            },
+            "value": "Event"
+        },
         "extAttrs": []
     }
 ]

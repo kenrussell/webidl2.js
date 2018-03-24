@@ -4,7 +4,13 @@
         "name": "HTMLAudioElement",
         "partial": false,
         "members": [],
-        "inheritance": "HTMLMediaElement",
+        "inheritance": {
+            "trivia": {
+                "start": " ",
+                "name": " "
+            },
+            "value": "HTMLMediaElement"
+        },
         "extAttrs": [
             {
                 "name": "NamedConstructor",

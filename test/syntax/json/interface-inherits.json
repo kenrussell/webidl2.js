@@ -50,7 +50,13 @@
                 "extAttrs": []
             }
         ],
-        "inheritance": "Animal",
+        "inheritance": {
+            "trivia": {
+                "start": " ",
+                "name": " "
+            },
+            "value": "Animal"
+        },
         "extAttrs": []
     },
     {
@@ -77,7 +83,13 @@
                 "extAttrs": []
             }
         ],
-        "inheritance": "Animal",
+        "inheritance": {
+            "trivia": {
+                "start": " ",
+                "name": " "
+            },
+            "value": "Animal"
+        },
         "extAttrs": []
     }
 ]

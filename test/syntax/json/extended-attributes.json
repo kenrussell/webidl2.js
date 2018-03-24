@@ -4,7 +4,13 @@
         "name": "ServiceWorkerGlobalScope",
         "partial": false,
         "members": [],
-        "inheritance": "WorkerGlobalScope",
+        "inheritance": {
+            "trivia": {
+                "start": " ",
+                "name": " "
+            },
+            "value": "WorkerGlobalScope"
+        },
         "extAttrs": [
             {
                 "name": "Global",

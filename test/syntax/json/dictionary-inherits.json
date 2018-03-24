@@ -82,7 +82,13 @@
                 "extAttrs": []
             }
         ],
-        "inheritance": "PaintOptions",
+        "inheritance": {
+            "trivia": {
+                "start": " ",
+                "name": " "
+            },
+            "value": "PaintOptions"
+        },
         "extAttrs": []
     }
 ]
