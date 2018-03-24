@@ -7,8 +7,9 @@
             {
                 "type": "const",
                 "trivia": {
-                    "definition": "\n  ",
-                    "equalSignTrivia": " "
+                    "start": "\n  ",
+                    "equalSign": " ",
+                    "termination": ""
                 },
                 "idlType": {
                     "type": "const-type",
@@ -34,8 +35,9 @@
             {
                 "type": "const",
                 "trivia": {
-                    "definition": "\n  ",
-                    "equalSignTrivia": " "
+                    "start": "\n  ",
+                    "equalSign": " ",
+                    "termination": ""
                 },
                 "idlType": {
                     "type": "const-type",
@@ -61,8 +63,9 @@
             {
                 "type": "const",
                 "trivia": {
-                    "definition": "\n  ",
-                    "equalSignTrivia": " "
+                    "start": "\n  ",
+                    "equalSign": " ",
+                    "termination": ""
                 },
                 "idlType": {
                     "type": "const-type",
@@ -88,8 +91,9 @@
             {
                 "type": "const",
                 "trivia": {
-                    "definition": "\n  ",
-                    "equalSignTrivia": " "
+                    "start": "\n  ",
+                    "equalSign": " ",
+                    "termination": ""
                 },
                 "idlType": {
                     "type": "const-type",
@@ -115,8 +119,9 @@
             {
                 "type": "const",
                 "trivia": {
-                    "definition": "\n  ",
-                    "equalSignTrivia": " "
+                    "start": "\n  ",
+                    "equalSign": " ",
+                    "termination": ""
                 },
                 "idlType": {
                     "type": "const-type",
@@ -142,8 +147,9 @@
             {
                 "type": "const",
                 "trivia": {
-                    "definition": "\n  ",
-                    "equalSignTrivia": " "
+                    "start": "\n  ",
+                    "equalSign": " ",
+                    "termination": ""
                 },
                 "idlType": {
                     "type": "const-type",
@@ -169,8 +175,9 @@
             {
                 "type": "const",
                 "trivia": {
-                    "definition": "\n  ",
-                    "equalSignTrivia": " "
+                    "start": "\n  ",
+                    "equalSign": " ",
+                    "termination": ""
                 },
                 "idlType": {
                     "type": "const-type",
@@ -196,8 +203,9 @@
             {
                 "type": "const",
                 "trivia": {
-                    "definition": "\n  ",
-                    "equalSignTrivia": " "
+                    "start": "\n  ",
+                    "equalSign": " ",
+                    "termination": ""
                 },
                 "idlType": {
                     "type": "const-type",
