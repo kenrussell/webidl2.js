@@ -92,7 +92,7 @@
             }
         ],
         "trivia": {
-            "start": "\n\n  // Interface identifier: \"System\"\n  // Qualified name:       \"::framework::System\"\n  ",
+            "base": "\n\n  // Interface identifier: \"System\"\n  // Qualified name:       \"::framework::System\"\n  ",
             "name": " ",
             "open": " ",
             "close": "\n  ",
@@ -144,7 +144,7 @@
             }
         ],
         "trivia": {
-            "start": "\n\n\n    // Interface identifier: \"TextField\"\n    // Qualified name:       \"::framework::gui::TextField\"\n    ",
+            "base": "\n\n\n    // Interface identifier: \"TextField\"\n    // Qualified name:       \"::framework::gui::TextField\"\n    ",
             "name": " ",
             "open": " ",
             "close": "\n    ",
@@ -196,7 +196,7 @@
             }
         ],
         "trivia": {
-            "start": "\n\n",
+            "base": "\n\n",
             "name": " ",
             "open": " ",
             "close": "\n",

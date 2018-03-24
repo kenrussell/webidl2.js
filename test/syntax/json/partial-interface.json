@@ -24,7 +24,7 @@
             }
         ],
         "trivia": {
-            "start": "",
+            "base": "",
             "name": " ",
             "open": " ",
             "close": "\n",
@@ -58,7 +58,7 @@
             }
         ],
         "trivia": {
-            "start": " ",
+            "base": " ",
             "name": " ",
             "open": " ",
             "close": "\n",

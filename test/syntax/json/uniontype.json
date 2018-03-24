@@ -134,7 +134,7 @@
             }
         ],
         "trivia": {
-            "start": "",
+            "base": "",
             "name": " ",
             "open": " ",
             "close": "\n",

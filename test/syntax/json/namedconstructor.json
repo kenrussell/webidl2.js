@@ -5,7 +5,7 @@
         "partial": false,
         "members": [],
         "trivia": {
-            "start": "\n",
+            "base": "\n",
             "name": " ",
             "open": " ",
             "close": "\n  // ...\n",

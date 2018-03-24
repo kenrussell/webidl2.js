@@ -73,7 +73,7 @@
             }
         ],
         "trivia": {
-            "start": null,
+            "base": null,
             "name": " ",
             "open": " ",
             "close": "\n",

@@ -76,7 +76,7 @@
             }
         ],
         "trivia": {
-            "start": "",
+            "base": "",
             "name": " ",
             "open": " ",
             "close": "\n",
@@ -148,7 +148,7 @@
             }
         ],
         "trivia": {
-            "start": "\n\n// Extracted from https://slightlyoff.github.io/ServiceWorker/spec/service_worker/ on 2014-05-08\n\n",
+            "base": "\n\n// Extracted from https://slightlyoff.github.io/ServiceWorker/spec/service_worker/ on 2014-05-08\n\n",
             "name": " ",
             "open": " ",
             "close": "\n",
@@ -192,7 +192,7 @@
             }
         ],
         "trivia": {
-            "start": "\n\n// Extracted from https://slightlyoff.github.io/ServiceWorker/spec/service_worker/ on 2014-05-13\n\n",
+            "base": "\n\n// Extracted from https://slightlyoff.github.io/ServiceWorker/spec/service_worker/ on 2014-05-13\n\n",
             "name": " ",
             "open": " ",
             "close": "\n",

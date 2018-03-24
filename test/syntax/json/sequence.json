@@ -78,7 +78,7 @@
             }
         ],
         "trivia": {
-            "start": "// Extracted from http://dev.w3.org/2006/webapi/WebIDL/ on 2011-05-06\n// edited to remove sequence as attributes, now invalid\n",
+            "base": "// Extracted from http://dev.w3.org/2006/webapi/WebIDL/ on 2011-05-06\n// edited to remove sequence as attributes, now invalid\n",
             "name": " ",
             "open": " ",
             "close": "\n  // ...\n",
@@ -114,7 +114,7 @@
             }
         ],
         "trivia": {
-            "start": "\n\n// Make sure sequence can still be registered as a type.\n",
+            "base": "\n\n// Make sure sequence can still be registered as a type.\n",
             "name": " ",
             "open": " ",
             "close": "\n",
@@ -181,7 +181,7 @@
             }
         ],
         "trivia": {
-            "start": "\n\n// Extracted from https://heycam.github.io/webidl/#idl-type-extended-attribute-associated-with on 2017-07-01\n\n",
+            "base": "\n\n// Extracted from https://heycam.github.io/webidl/#idl-type-extended-attribute-associated-with on 2017-07-01\n\n",
             "name": " ",
             "open": " ",
             "close": "\n",

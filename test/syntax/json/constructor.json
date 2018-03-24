@@ -78,7 +78,7 @@
             }
         ],
         "trivia": {
-            "start": "\n",
+            "base": "\n",
             "name": " ",
             "open": " ",
             "close": "\n",

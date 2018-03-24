@@ -125,6 +125,13 @@
                 "extAttrs": []
             }
         ],
+        "trivia": {
+            "base": "",
+            "name": " ",
+            "open": " ",
+            "close": "\n",
+            "termination": ""
+        },
         "extAttrs": []
     },
     {
@@ -132,6 +139,13 @@
         "name": "SomeNamespace",
         "partial": true,
         "members": [],
+        "trivia": {
+            "base": " ",
+            "name": " ",
+            "open": " ",
+            "close": "\n  /* namespace_members... */\n",
+            "termination": ""
+        },
         "extAttrs": []
     }
 ]

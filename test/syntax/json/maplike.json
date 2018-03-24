@@ -31,7 +31,7 @@
             }
         ],
         "trivia": {
-            "start": "",
+            "base": "",
             "name": " ",
             "open": " ",
             "close": "\n",
@@ -72,7 +72,7 @@
             }
         ],
         "trivia": {
-            "start": "\n\n",
+            "base": "\n\n",
             "name": " ",
             "open": " ",
             "close": "\n",
@@ -127,7 +127,7 @@
             }
         ],
         "trivia": {
-            "start": "\n\n// Extracted from https://heycam.github.io/webidl/#idl-type-extended-attribute-associated-with on 2017-07-01\n\n",
+            "base": "\n\n// Extracted from https://heycam.github.io/webidl/#idl-type-extended-attribute-associated-with on 2017-07-01\n\n",
             "name": " ",
             "open": " ",
             "close": "\n",

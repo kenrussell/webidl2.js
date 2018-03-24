@@ -5,7 +5,7 @@
         "partial": false,
         "members": [],
         "trivia": {
-            "start": "// Extracted from http://dev.w3.org/2006/webapi/WebIDL/ on 2011-05-06\n",
+            "base": "// Extracted from http://dev.w3.org/2006/webapi/WebIDL/ on 2011-05-06\n",
             "name": " ",
             "open": " ",
             "close": "\n  // ...\n",
@@ -20,7 +20,7 @@
         "partial": false,
         "members": [],
         "trivia": {
-            "start": "\n\n",
+            "base": "\n\n",
             "name": " ",
             "open": " ",
             "close": "\n  // ...\n",
@@ -108,7 +108,7 @@
             }
         ],
         "trivia": {
-            "start": "\n\n",
+            "base": "\n\n",
             "name": " ",
             "open": " ",
             "close": "\n",
@@ -334,7 +334,7 @@
             }
         ],
         "trivia": {
-            "start": "\n\n",
+            "base": "\n\n",
             "name": " ",
             "open": " ",
             "close": "\n",
