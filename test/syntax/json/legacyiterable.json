@@ -20,6 +20,13 @@
                 "extAttrs": []
             }
         ],
+        "trivia": {
+            "start": "",
+            "name": " ",
+            "open": " ",
+            "close": "\n",
+            "termination": ""
+        },
         "inheritance": null,
         "extAttrs": []
     }

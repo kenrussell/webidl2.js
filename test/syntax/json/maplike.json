@@ -30,6 +30,13 @@
                 "extAttrs": []
             }
         ],
+        "trivia": {
+            "start": "",
+            "name": " ",
+            "open": " ",
+            "close": "\n",
+            "termination": ""
+        },
         "inheritance": null,
         "extAttrs": []
     },
@@ -64,6 +71,13 @@
                 "extAttrs": []
             }
         ],
+        "trivia": {
+            "start": "\n\n",
+            "name": " ",
+            "open": " ",
+            "close": "\n",
+            "termination": ""
+        },
         "inheritance": null,
         "extAttrs": []
     },
@@ -112,6 +126,13 @@
                 "extAttrs": []
             }
         ],
+        "trivia": {
+            "start": "\n\n// Extracted from https://heycam.github.io/webidl/#idl-type-extended-attribute-associated-with on 2017-07-01\n\n",
+            "name": " ",
+            "open": " ",
+            "close": "\n",
+            "termination": ""
+        },
         "inheritance": null,
         "extAttrs": []
     }

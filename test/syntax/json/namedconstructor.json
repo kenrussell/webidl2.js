@@ -4,6 +4,13 @@
         "name": "HTMLAudioElement",
         "partial": false,
         "members": [],
+        "trivia": {
+            "start": "\n",
+            "name": " ",
+            "open": " ",
+            "close": "\n  // ...\n",
+            "termination": ""
+        },
         "inheritance": {
             "trivia": {
                 "start": " ",

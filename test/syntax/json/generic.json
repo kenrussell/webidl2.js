@@ -75,6 +75,13 @@
                 "extAttrs": []
             }
         ],
+        "trivia": {
+            "start": "",
+            "name": " ",
+            "open": " ",
+            "close": "\n",
+            "termination": ""
+        },
         "inheritance": null,
         "extAttrs": []
     },
@@ -140,6 +147,13 @@
                 "extAttrs": []
             }
         ],
+        "trivia": {
+            "start": "\n\n// Extracted from https://slightlyoff.github.io/ServiceWorker/spec/service_worker/ on 2014-05-08\n\n",
+            "name": " ",
+            "open": " ",
+            "close": "\n",
+            "termination": ""
+        },
         "inheritance": null,
         "extAttrs": []
     },
@@ -177,6 +191,13 @@
                 "extAttrs": []
             }
         ],
+        "trivia": {
+            "start": "\n\n// Extracted from https://slightlyoff.github.io/ServiceWorker/spec/service_worker/ on 2014-05-13\n\n",
+            "name": " ",
+            "open": " ",
+            "close": "\n",
+            "termination": ""
+        },
         "inheritance": {
             "trivia": {
                 "start": " ",

@@ -146,6 +146,13 @@
                 "extAttrs": []
             }
         ],
+        "trivia": {
+            "start": "\n",
+            "name": " ",
+            "open": " ",
+            "close": "\n",
+            "termination": ""
+        },
         "inheritance": null,
         "extAttrs": [
             {
@@ -243,6 +250,13 @@
                 "extAttrs": []
             }
         ],
+        "trivia": {
+            "start": "\n\n",
+            "name": " ",
+            "open": " ",
+            "close": "\n",
+            "termination": ""
+        },
         "inheritance": null,
         "extAttrs": []
     }
