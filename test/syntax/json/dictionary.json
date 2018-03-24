@@ -7,7 +7,7 @@
             {
                 "type": "field",
                 "name": "fillPattern",
-                "required": false,
+                "required": null,
                 "idlType": {
                     "type": "dictionary-type",
                     "sequence": false,
@@ -26,7 +26,7 @@
             {
                 "type": "field",
                 "name": "strokePattern",
-                "required": false,
+                "required": null,
                 "idlType": {
                     "type": "dictionary-type",
                     "sequence": false,
@@ -45,7 +45,7 @@
             {
                 "type": "field",
                 "name": "position",
-                "required": false,
+                "required": null,
                 "idlType": {
                     "type": "dictionary-type",
                     "sequence": false,
@@ -60,7 +60,7 @@
             {
                 "type": "field",
                 "name": "seq",
-                "required": false,
+                "required": null,
                 "idlType": {
                     "type": "dictionary-type",
                     "sequence": true,
@@ -87,7 +87,9 @@
             {
                 "type": "field",
                 "name": "reqSeq",
-                "required": true,
+                "required": {
+                    "trivia": "\n  // https://heycam.github.io/webidl/#required-dictionary-member\n  "
+                },
                 "idlType": {
                     "type": "dictionary-type",
                     "sequence": false,
@@ -100,6 +102,13 @@
                 "extAttrs": []
             }
         ],
+        "trivia": {
+            "base": "// Extracted from Web IDL editors draft May 31 2011\n",
+            "name": " ",
+            "open": " ",
+            "close": "\n",
+            "termination": ""
+        },
         "inheritance": null,
         "extAttrs": []
     },
@@ -111,7 +120,7 @@
             {
                 "type": "field",
                 "name": "h",
-                "required": false,
+                "required": null,
                 "idlType": {
                     "type": "dictionary-type",
                     "sequence": false,
@@ -126,7 +135,7 @@
             {
                 "type": "field",
                 "name": "d",
-                "required": false,
+                "required": null,
                 "idlType": {
                     "type": "dictionary-type",
                     "sequence": false,
@@ -139,6 +148,13 @@
                 "extAttrs": []
             }
         ],
+        "trivia": {
+            "base": " ",
+            "name": " ",
+            "open": " ",
+            "close": "\n",
+            "termination": ""
+        },
         "extAttrs": []
     }
 ]

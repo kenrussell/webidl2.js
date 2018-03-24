@@ -7,7 +7,7 @@
             {
                 "type": "field",
                 "name": "fillPattern",
-                "required": false,
+                "required": null,
                 "idlType": {
                     "type": "dictionary-type",
                     "sequence": false,
@@ -26,7 +26,7 @@
             {
                 "type": "field",
                 "name": "strokePattern",
-                "required": false,
+                "required": null,
                 "idlType": {
                     "type": "dictionary-type",
                     "sequence": false,
@@ -45,7 +45,7 @@
             {
                 "type": "field",
                 "name": "position",
-                "required": false,
+                "required": null,
                 "idlType": {
                     "type": "dictionary-type",
                     "sequence": false,
@@ -58,6 +58,13 @@
                 "extAttrs": []
             }
         ],
+        "trivia": {
+            "base": "",
+            "name": " ",
+            "open": " ",
+            "close": "\n",
+            "termination": ""
+        },
         "inheritance": null,
         "extAttrs": []
     },
@@ -69,7 +76,7 @@
             {
                 "type": "field",
                 "name": "hydrometry",
-                "required": false,
+                "required": null,
                 "idlType": {
                     "type": "dictionary-type",
                     "sequence": false,
@@ -82,6 +89,13 @@
                 "extAttrs": []
             }
         ],
+        "trivia": {
+            "base": "\n\n",
+            "name": " ",
+            "open": " ",
+            "close": "\n",
+            "termination": ""
+        },
         "inheritance": {
             "trivia": {
                 "start": " ",
