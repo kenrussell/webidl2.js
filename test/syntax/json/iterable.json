@@ -2,7 +2,7 @@
     {
         "type": "interface",
         "name": "IterableOne",
-        "partial": false,
+        "partial": null,
         "members": [
             {
                 "type": "iterable",
@@ -33,7 +33,7 @@
     {
         "type": "interface",
         "name": "IterableTwo",
-        "partial": false,
+        "partial": null,
         "members": [
             {
                 "type": "iterable",
@@ -73,7 +73,7 @@
     {
         "type": "interface",
         "name": "IterableThree",
-        "partial": false,
+        "partial": null,
         "members": [
             {
                 "type": "iterable",

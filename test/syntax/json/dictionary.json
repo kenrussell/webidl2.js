@@ -2,7 +2,7 @@
     {
         "type": "dictionary",
         "name": "PaintOptions",
-        "partial": false,
+        "partial": null,
         "members": [
             {
                 "type": "field",
@@ -115,7 +115,9 @@
     {
         "type": "dictionary",
         "name": "A",
-        "partial": true,
+        "partial": {
+            "trivia": "\n\n"
+        },
         "members": [
             {
                 "type": "field",

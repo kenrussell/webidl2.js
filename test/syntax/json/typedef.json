@@ -2,7 +2,7 @@
     {
         "type": "interface",
         "name": "Point",
-        "partial": false,
+        "partial": null,
         "members": [
             {
                 "type": "attribute",
@@ -76,7 +76,7 @@
     {
         "type": "interface",
         "name": "Rect",
-        "partial": false,
+        "partial": null,
         "members": [
             {
                 "type": "attribute",
@@ -128,7 +128,7 @@
     {
         "type": "interface",
         "name": "Widget",
-        "partial": false,
+        "partial": null,
         "members": [
             {
                 "type": "attribute",

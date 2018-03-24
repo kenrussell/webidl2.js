@@ -2,7 +2,7 @@
     {
         "type": "interface",
         "name": "Dimensions",
-        "partial": false,
+        "partial": null,
         "members": [
             {
                 "type": "attribute",
@@ -54,7 +54,7 @@
     {
         "type": "interface",
         "name": "Button",
-        "partial": false,
+        "partial": null,
         "members": [
             {
                 "type": "operation",

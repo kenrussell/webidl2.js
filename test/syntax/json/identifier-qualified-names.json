@@ -16,7 +16,7 @@
     {
         "type": "interface",
         "name": "System",
-        "partial": false,
+        "partial": null,
         "members": [
             {
                 "type": "operation",
@@ -104,7 +104,7 @@
     {
         "type": "interface",
         "name": "TextField",
-        "partial": false,
+        "partial": null,
         "members": [
             {
                 "type": "attribute",
@@ -156,7 +156,7 @@
     {
         "type": "interface",
         "name": "Foo",
-        "partial": false,
+        "partial": null,
         "members": [
             {
                 "type": "operation",

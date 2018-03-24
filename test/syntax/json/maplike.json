@@ -2,7 +2,7 @@
     {
         "type": "interface",
         "name": "MapLike",
-        "partial": false,
+        "partial": null,
         "members": [
             {
                 "type": "maplike",
@@ -43,7 +43,7 @@
     {
         "type": "interface",
         "name": "ReadOnlyMapLike",
-        "partial": false,
+        "partial": null,
         "members": [
             {
                 "type": "maplike",
@@ -84,7 +84,7 @@
     {
         "type": "interface",
         "name": "I",
-        "partial": false,
+        "partial": null,
         "members": [
             {
                 "type": "maplike",

@@ -2,7 +2,7 @@
     {
         "type": "interface",
         "name": "Animal",
-        "partial": false,
+        "partial": null,
         "members": [
             {
                 "type": "attribute",
@@ -36,7 +36,7 @@
     {
         "type": "interface",
         "name": "Human",
-        "partial": false,
+        "partial": null,
         "members": [
             {
                 "type": "attribute",
@@ -76,7 +76,7 @@
     {
         "type": "interface",
         "name": "Dog",
-        "partial": false,
+        "partial": null,
         "members": [
             {
                 "type": "attribute",

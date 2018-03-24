@@ -2,7 +2,7 @@
     {
         "type": "interface",
         "name": "Node",
-        "partial": false,
+        "partial": null,
         "members": [
             {
                 "type": "attribute",
@@ -36,7 +36,7 @@
     {
         "type": "interface",
         "name": "EventTarget",
-        "partial": false,
+        "partial": null,
         "members": [
             {
                 "type": "operation",

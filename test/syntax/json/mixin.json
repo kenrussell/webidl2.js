@@ -2,7 +2,7 @@
     {
         "type": "interface mixin",
         "name": "GlobalCrypto",
-        "partial": false,
+        "partial": null,
         "members": [
             {
                 "type": "attribute",
@@ -48,7 +48,9 @@
     {
         "type": "interface mixin",
         "name": "WindowOrWorkerGlobalScope",
-        "partial": true,
+        "partial": {
+            "trivia": "\n\n"
+        },
         "members": [
             {
                 "type": "attribute",

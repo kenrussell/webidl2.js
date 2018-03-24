@@ -2,7 +2,7 @@
     {
         "type": "namespace",
         "name": "VectorUtils",
-        "partial": false,
+        "partial": null,
         "members": [
             {
                 "type": "attribute",
@@ -137,7 +137,9 @@
     {
         "type": "namespace",
         "name": "SomeNamespace",
-        "partial": true,
+        "partial": {
+            "trivia": "\n\n"
+        },
         "members": [],
         "trivia": {
             "base": " ",

@@ -2,7 +2,7 @@
     {
         "type": "interface",
         "name": "Foo",
-        "partial": false,
+        "partial": null,
         "members": [
             {
                 "type": "operation",
@@ -88,7 +88,7 @@
     {
         "type": "interface",
         "name": "ServiceWorkerClients",
-        "partial": false,
+        "partial": null,
         "members": [
             {
                 "type": "operation",
@@ -160,7 +160,7 @@
     {
         "type": "interface",
         "name": "FetchEvent",
-        "partial": false,
+        "partial": null,
         "members": [
             {
                 "type": "operation",
