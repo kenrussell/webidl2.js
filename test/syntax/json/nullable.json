@@ -6,7 +6,10 @@
         "members": [
             {
                 "type": "const",
-                "nullable": true,
+                "trivia": {
+                    "definition": "\n  ",
+                    "equalSignTrivia": " "
+                },
                 "idlType": {
                     "type": "const-type",
                     "sequence": false,
@@ -16,10 +19,17 @@
                     "idlType": "boolean",
                     "extAttrs": []
                 },
-                "name": "ARE_WE_THERE_YET",
+                "nullable": {
+                    "trivia": ""
+                },
+                "name": {
+                    "value": "ARE_WE_THERE_YET",
+                    "trivia": " "
+                },
                 "value": {
                     "type": "boolean",
-                    "value": false
+                    "value": false,
+                    "ws": " "
                 },
                 "extAttrs": []
             }

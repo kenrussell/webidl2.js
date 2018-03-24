@@ -38,7 +38,8 @@
                 },
                 "extAttrs": [],
                 "default": {
-                    "type": "null"
+                    "type": "null",
+                    "ws": " "
                 }
             },
             {

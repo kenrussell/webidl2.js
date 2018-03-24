@@ -6,7 +6,10 @@
         "members": [
             {
                 "type": "const",
-                "nullable": false,
+                "trivia": {
+                    "definition": "\n  ",
+                    "equalSignTrivia": " "
+                },
                 "idlType": {
                     "type": "const-type",
                     "sequence": false,
@@ -16,16 +19,24 @@
                     "idlType": "boolean",
                     "extAttrs": []
                 },
-                "name": "DEBUG",
+                "nullable": null,
+                "name": {
+                    "value": "DEBUG",
+                    "trivia": " "
+                },
                 "value": {
                     "type": "boolean",
-                    "value": false
+                    "value": false,
+                    "ws": " "
                 },
                 "extAttrs": []
             },
             {
                 "type": "const",
-                "nullable": false,
+                "trivia": {
+                    "definition": "\n  ",
+                    "equalSignTrivia": " "
+                },
                 "idlType": {
                     "type": "const-type",
                     "sequence": false,
@@ -35,16 +46,24 @@
                     "idlType": "short",
                     "extAttrs": []
                 },
-                "name": "negative",
+                "nullable": null,
+                "name": {
+                    "value": "negative",
+                    "trivia": " "
+                },
                 "value": {
                     "type": "number",
-                    "value": "-1"
+                    "value": "-1",
+                    "ws": " "
                 },
                 "extAttrs": []
             },
             {
                 "type": "const",
-                "nullable": false,
+                "trivia": {
+                    "definition": "\n  ",
+                    "equalSignTrivia": " "
+                },
                 "idlType": {
                     "type": "const-type",
                     "sequence": false,
@@ -54,16 +73,24 @@
                     "idlType": "octet",
                     "extAttrs": []
                 },
-                "name": "LF",
+                "nullable": null,
+                "name": {
+                    "value": "LF",
+                    "trivia": " "
+                },
                 "value": {
                     "type": "number",
-                    "value": "10"
+                    "value": "10",
+                    "ws": " "
                 },
                 "extAttrs": []
             },
             {
                 "type": "const",
-                "nullable": false,
+                "trivia": {
+                    "definition": "\n  ",
+                    "equalSignTrivia": " "
+                },
                 "idlType": {
                     "type": "const-type",
                     "sequence": false,
@@ -73,16 +100,24 @@
                     "idlType": "unsigned long",
                     "extAttrs": []
                 },
-                "name": "BIT_MASK",
+                "nullable": null,
+                "name": {
+                    "value": "BIT_MASK",
+                    "trivia": " "
+                },
                 "value": {
                     "type": "number",
-                    "value": "0x0000fc00"
+                    "value": "0x0000fc00",
+                    "ws": " "
                 },
                 "extAttrs": []
             },
             {
                 "type": "const",
-                "nullable": false,
+                "trivia": {
+                    "definition": "\n  ",
+                    "equalSignTrivia": " "
+                },
                 "idlType": {
                     "type": "const-type",
                     "sequence": false,
@@ -92,16 +127,24 @@
                     "idlType": "float",
                     "extAttrs": []
                 },
-                "name": "AVOGADRO",
+                "nullable": null,
+                "name": {
+                    "value": "AVOGADRO",
+                    "trivia": " "
+                },
                 "value": {
                     "type": "number",
-                    "value": "6.022e23"
+                    "value": "6.022e23",
+                    "ws": " "
                 },
                 "extAttrs": []
             },
             {
                 "type": "const",
-                "nullable": false,
+                "trivia": {
+                    "definition": "\n  ",
+                    "equalSignTrivia": " "
+                },
                 "idlType": {
                     "type": "const-type",
                     "sequence": false,
@@ -111,16 +154,24 @@
                     "idlType": "unrestricted float",
                     "extAttrs": []
                 },
-                "name": "sobig",
+                "nullable": null,
+                "name": {
+                    "value": "sobig",
+                    "trivia": " "
+                },
                 "value": {
                     "type": "Infinity",
-                    "negative": false
+                    "negative": false,
+                    "ws": " "
                 },
                 "extAttrs": []
             },
             {
                 "type": "const",
-                "nullable": false,
+                "trivia": {
+                    "definition": "\n  ",
+                    "equalSignTrivia": " "
+                },
                 "idlType": {
                     "type": "const-type",
                     "sequence": false,
@@ -130,16 +181,24 @@
                     "idlType": "unrestricted double",
                     "extAttrs": []
                 },
-                "name": "minusonedividedbyzero",
+                "nullable": null,
+                "name": {
+                    "value": "minusonedividedbyzero",
+                    "trivia": " "
+                },
                 "value": {
                     "type": "Infinity",
-                    "negative": true
+                    "negative": true,
+                    "ws": " "
                 },
                 "extAttrs": []
             },
             {
                 "type": "const",
-                "nullable": false,
+                "trivia": {
+                    "definition": "\n  ",
+                    "equalSignTrivia": " "
+                },
                 "idlType": {
                     "type": "const-type",
                     "sequence": false,
@@ -149,9 +208,14 @@
                     "idlType": "short",
                     "extAttrs": []
                 },
-                "name": "notanumber",
+                "nullable": null,
+                "name": {
+                    "value": "notanumber",
+                    "trivia": " "
+                },
                 "value": {
-                    "type": "NaN"
+                    "type": "NaN",
+                    "ws": " "
                 },
                 "extAttrs": []
             }
