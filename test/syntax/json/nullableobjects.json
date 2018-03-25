@@ -60,7 +60,9 @@
                             "type": "argument-type",
                             "sequence": false,
                             "generic": null,
-                            "nullable": true,
+                            "nullable": {
+                                "trivia": ""
+                            },
                             "union": false,
                             "idlType": "A",
                             "extAttrs": []
@@ -96,7 +98,9 @@
                             "type": "argument-type",
                             "sequence": false,
                             "generic": null,
-                            "nullable": true,
+                            "nullable": {
+                                "trivia": ""
+                            },
                             "union": false,
                             "idlType": "B",
                             "extAttrs": []

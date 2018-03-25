@@ -51,7 +51,9 @@
                         "type": null,
                         "sequence": false,
                         "generic": null,
-                        "nullable": true,
+                        "nullable": {
+                            "trivia": ""
+                        },
                         "union": false,
                         "idlType": "double",
                         "extAttrs": []

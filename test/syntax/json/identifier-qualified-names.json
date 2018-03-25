@@ -134,7 +134,9 @@
                     "type": "attribute-type",
                     "sequence": false,
                     "generic": null,
-                    "nullable": true,
+                    "nullable": {
+                        "trivia": ""
+                    },
                     "union": false,
                     "idlType": "DOMString",
                     "extAttrs": []

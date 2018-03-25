@@ -30,13 +30,17 @@
                             "type": "argument-type",
                             "sequence": true,
                             "generic": "sequence",
-                            "nullable": true,
+                            "nullable": {
+                                "trivia": ""
+                            },
                             "union": false,
                             "idlType": {
                                 "type": "argument-type",
                                 "sequence": false,
                                 "generic": null,
-                                "nullable": true,
+                                "nullable": {
+                                    "trivia": ""
+                                },
                                 "union": false,
                                 "idlType": "DOMString",
                                 "extAttrs": []

@@ -33,7 +33,9 @@
                                 "type": "return-type",
                                 "sequence": false,
                                 "generic": null,
-                                "nullable": true,
+                                "nullable": {
+                                    "trivia": ""
+                                },
                                 "union": false,
                                 "idlType": "DOMString",
                                 "extAttrs": []
@@ -107,7 +109,9 @@
                         "type": "return-type",
                         "sequence": false,
                         "generic": null,
-                        "nullable": true,
+                        "nullable": {
+                            "trivia": ""
+                        },
                         "union": false,
                         "idlType": "Client",
                         "extAttrs": []
