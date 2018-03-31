@@ -1,6 +1,11 @@
 [
     {
         "type": "typedef",
+        "trivia": {
+            "base": "  ",
+            "name": " ",
+            "termination": ""
+        },
         "idlType": {
             "type": "typedef-type",
             "sequence": false,

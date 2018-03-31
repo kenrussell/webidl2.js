@@ -53,6 +53,11 @@
     },
     {
         "type": "typedef",
+        "trivia": {
+            "base": "\n\n      ",
+            "name": " ",
+            "termination": ""
+        },
         "idlType": {
             "type": "typedef-type",
             "sequence": true,
@@ -233,6 +238,11 @@
     },
     {
         "type": "typedef",
+        "trivia": {
+            "base": "\n\n  ",
+            "name": " ",
+            "termination": ""
+        },
         "idlType": {
             "type": "typedef-type",
             "sequence": false,
