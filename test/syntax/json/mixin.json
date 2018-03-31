@@ -34,14 +34,24 @@
         "extAttrs": []
     },
     {
-        "type": "includes",
         "target": "Window",
+        "trivia": {
+            "base": "",
+            "middle": " ",
+            "includes": " ",
+            "termination": ""
+        },
         "includes": "GlobalCrypto",
         "extAttrs": []
     },
     {
-        "type": "includes",
         "target": "WorkerGlobalScope",
+        "trivia": {
+            "base": "",
+            "middle": " ",
+            "includes": " ",
+            "termination": ""
+        },
         "includes": "GlobalCrypto",
         "extAttrs": []
     },

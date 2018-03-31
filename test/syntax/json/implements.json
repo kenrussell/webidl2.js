@@ -118,6 +118,12 @@
     {
         "type": "implements",
         "target": "Node",
+        "trivia": {
+            "base": "\n\n  ",
+            "middle": " ",
+            "implements": " ",
+            "termination": ""
+        },
         "implements": "EventTarget",
         "extAttrs": []
     }
