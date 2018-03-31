@@ -1,14 +1,1 @@
-[
-    {
-        "type": "multiline-comment",
-        "value": " first "
-    },
-    {
-        "type": "ws",
-        "value": "\n"
-    },
-    {
-        "type": "line-comment",
-        "value": " second"
-    }
-]
+[]
