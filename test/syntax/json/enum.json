@@ -16,6 +16,13 @@
                 "value": "other"
             }
         ],
+        "trivia": {
+            "base": "",
+            "name": " ",
+            "open": " ",
+            "close": " ",
+            "termination": ""
+        },
         "extAttrs": []
     },
     {
@@ -138,6 +145,13 @@
                 "value": "other"
             }
         ],
+        "trivia": {
+            "base": "\n\n",
+            "name": " ",
+            "open": " ",
+            "close": " ",
+            "termination": ""
+        },
         "extAttrs": []
     }
 ]
