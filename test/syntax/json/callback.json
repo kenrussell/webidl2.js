@@ -2,6 +2,14 @@
     {
         "type": "callback",
         "name": "AsyncOperationCallback",
+        "trivia": {
+            "base": "",
+            "name": " ",
+            "assignment": " ",
+            "open": " ",
+            "close": "",
+            "termination": ""
+        },
         "idlType": {
             "type": "return-type",
             "sequence": false,
@@ -85,6 +93,14 @@
     {
         "type": "callback",
         "name": "SortCallback",
+        "trivia": {
+            "base": "\n\n",
+            "name": " ",
+            "assignment": " ",
+            "open": " ",
+            "close": "",
+            "termination": ""
+        },
         "idlType": {
             "type": "return-type",
             "sequence": false,
